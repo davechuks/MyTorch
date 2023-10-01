@@ -1,6 +1,6 @@
 # MyTorch
 
-This repository contains my solutions to the series of homework assignments for the Carnegie Mellon University course "11-785: Introduction to Deep Learning (Spring 2022)." Each homework assignment consists of two parts:
+This repository contains my solutions to the series of homework assignments for the Carnegie Mellon University course [11-785: Introduction to Deep Learning (Spring 2022)](https://deeplearning.cs.cmu.edu/S22/index.html). Each homework assignment consists of two parts:
 
 1. **Autolab Software Engineering Component:** In this part, I will engineer my own deep learning library by implementing important deep learning algorithms and optimization methods from scratch.
 
